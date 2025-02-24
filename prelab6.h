@@ -1,0 +1,1 @@
+int CountPlusPlus(void);
